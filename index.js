@@ -8,3 +8,11 @@ function theBeatlesPlay(musicians, instruments){
   return myArray
 
 }
+
+
+
+// Add johnlenonfacts function here
+
+function iLoveTheBeatles(n){
+  
+}
