@@ -15,4 +15,6 @@ function theBeatlesPlay(musicians, instruments){
 
 function iLoveTheBeatles(n){
 
+const newArray = [];
+
 }
